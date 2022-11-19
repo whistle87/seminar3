@@ -10,3 +10,6 @@ A programm for commiting
 For initialisation new repository  is needed to print in termibnat command
 
     git init
+## Change of repository status
+For checking status print commnd
+    git status
