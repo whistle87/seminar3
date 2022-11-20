@@ -28,3 +28,9 @@ For record changing to commit print:
 
     git commit
 
+ ## Record changing to commit with comment
+
+ For recording changing to commit with comments with one command print:
+
+    git commit -m "some comment"
+    
