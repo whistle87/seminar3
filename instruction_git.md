@@ -63,3 +63,9 @@ To look a log of abbreviated commit data (just in one line) print
 To look at log of all commit print
 
     git log --all
+
+## Viewing a full list of abbreviated commit data
+
+To look a full log of abbreviated commit data (just in one line) print
+
+    git log --oneline --all
