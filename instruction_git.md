@@ -34,3 +34,9 @@ For record changing to commit print:
 
     git commit -m "some comment"
     
+## Adding changes in index and recording to commit at the same time
+
+For adding changes in index and recording to commit together print
+
+    git commit -a
+
