@@ -75,4 +75,10 @@ To look a full log of abbreviated commit data (just in one line) print
 To look changes between file and the last commit which have not yet been added to index print
 
     git diff
-    
+
+## Switch to a commit
+
+To switch to a needed commit print
+
+    git checkout \<hash>
+ 
