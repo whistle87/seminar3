@@ -40,3 +40,8 @@ For adding changes in index and recording to commit together print
 
     git commit -a
 
+## Adding changes in index and recording to commit with message at the same time
+
+For adding changes in index and recording to commit with message together print
+
+    git commit -am "message"
