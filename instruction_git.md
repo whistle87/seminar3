@@ -56,10 +56,10 @@ To look at commit log print
 
 To look a log of abbreviated commit data (just in one line) print
 
-    git log -oneline
+    git log --oneline
 
 ## Viewing a full list of commiting
 
-To look at log off all commit print
+To look at log of all commit print
 
     git log --all
