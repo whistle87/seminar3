@@ -45,3 +45,15 @@ For adding changes in index and recording to commit together print
 For adding changes in index and recording to commit with message together print
 
     git commit -am "message"
+
+## Viewing a list of commiting
+
+To look at commit log print
+
+    git log
+
+## Viewing a list of abbreviated commit data
+
+To look a log of abbreviated commit data (just in one line) print
+
+    git log -oneline
