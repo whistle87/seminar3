@@ -69,3 +69,10 @@ To look at log of all commit print
 To look a full log of abbreviated commit data (just in one line) print
 
     git log --oneline --all
+
+## Viewing changes between file and the last commit
+
+To look changes between file and the last commit which have not yet been added to index print
+
+    git diff
+    
