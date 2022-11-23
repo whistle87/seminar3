@@ -83,3 +83,5 @@ To look changes between file which have not yet been added to index and the last
 To switch to a needed commit print
 
     git checkout \<hash>
+
+## Branching
