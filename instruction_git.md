@@ -87,3 +87,7 @@ To switch to a needed commit print
 ## Branching
 
 Branches in git is needed fot ...
+
+### New branch creating
+
+For creating new branch ...
