@@ -85,3 +85,5 @@ To switch to a needed commit print
     git checkout \<hash>
 
 ## Branching
+
+Branches in git is needed fot ...
