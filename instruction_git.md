@@ -88,5 +88,14 @@ To switch to a needed commit print
 
 Branches in git is needed fot ...
 
+### New branch creating
+
+For creating new branch ...
+
+### Switching between branches
+
+For switchng between branche is needed ...
 
 ### Merging
+
+For merging changes from one branch to another ...
