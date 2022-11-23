@@ -1,5 +1,7 @@
 # **Instruction for using sistem comtrol version
 
+![Git emblem](picture.jpg)
+
 ## What is git
 
 Git programm is 
