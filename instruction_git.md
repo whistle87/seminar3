@@ -87,3 +87,6 @@ To switch to a needed commit print
 ## Branching
 
 Branches in git is needed fot ...
+
+
+### Merging
