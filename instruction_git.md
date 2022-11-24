@@ -88,6 +88,10 @@ To switch to a needed commit print
 
 Branches in git is needed for working on different versions of original code. It gives an opportynity to work on new functions without worries about release version.
 
+To show information about branches use:
+
+    git branch
+
 ### New branch creating
 
 For creating new branch ...
