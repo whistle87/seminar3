@@ -92,6 +92,8 @@ To show information about branches use:
 
     git branch
 
+Green branch with * indicates on which branch are you now.
+
 ### New branch creating
 
 For creating new branch ...
