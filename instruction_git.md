@@ -86,7 +86,13 @@ To switch to a needed commit print
 
 ## Branching
 
-Branches in git is needed for ...
+Branches in git is needed for working on different versions of original code. It gives an opportynity to work on new functions without worries about release version.
+
+To show information about branches use:
+
+    git branch
+
+Green branch with * indicates on which branch are you now.
 
 ### New branch creating
 
