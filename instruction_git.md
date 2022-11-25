@@ -114,6 +114,8 @@ For creating new branch and switching on it at once print
 
     git checkout -b branch_name
 
+If the branch with this name already exists this command returns an error.
+
 ### Merging
 
 For merging changes from one branch to another ...
