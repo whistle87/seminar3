@@ -1,4 +1,4 @@
-# **Instruction for using sistem comtrol version
+# Instruction for using sistem comtrol version
 
 ![Git emblem](picture.jpg)
 
