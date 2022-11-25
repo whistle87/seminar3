@@ -118,11 +118,13 @@ If the branch with this name already exists this command returns an error.
 
 ### Merging
 
+Merging joins two or more developing histories together.
+
 For merging changes from one branch to another print
 
     git merge branch_name
 
-If merging will be done without conflict commit wil be done automatically with short message
+If merging will be done without conflict commit wil be done automatically with short message. 
 
 ### Merging conflict
 
