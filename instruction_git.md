@@ -130,3 +130,9 @@ If merging will be done without conflict commit wil be done automatically with s
 ### Merging conflict
 
 If information in merging files in the same line are different merging conflict occurs.
+
+To solve merging conflict select one of suggested options:
+
+* Accept incoming
+* Accept current
+* Accept both
