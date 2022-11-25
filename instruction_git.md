@@ -118,7 +118,9 @@ If the branch with this name already exists this command returns an error.
 
 ### Merging
 
-For merging changes from one branch to another ...
+For merging changes from one branch to another print
+
+    git merge branch_name
 
 ### Merging conflict
 
