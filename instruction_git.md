@@ -129,9 +129,6 @@ If merging will be done without conflict commit wil be done automatically with s
 
 ### Merging conflict
 
-<<<<<<< HEAD
-Merging conflict occurs when you try to merge two files having different symbols in the same line.
-=======
 If information in merging files in the same line are different merging conflict occurs.
 
 To solve merging conflict select one of suggested options:
@@ -141,4 +138,3 @@ To solve merging conflict select one of suggested options:
 * Accept both
 
 While you don't do adding to index you can return changes.
->>>>>>> merge_conflict
