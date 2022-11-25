@@ -106,7 +106,15 @@ For deleting branch print
 
 ### Switching between branches
 
-For switchng between branche is needed ...
+For switchng between branche print
+
+    git checkout branch_name
+
+For creating new branch and switching on it at once print
+
+    git checkout -b branch_name
+
+If the branch with this name already exists this command returns an error.
 
 ### Merging
 
