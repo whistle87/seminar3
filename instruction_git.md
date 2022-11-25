@@ -129,4 +129,4 @@ If merging will be done without conflict commit wil be done automatically with s
 
 ### Merging conflict
 
-If when merging two files the same line is printed differently ...
+Merging conflict occurs when you try to merge two files having different symbols in the same line.
