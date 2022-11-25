@@ -118,7 +118,7 @@ If the branch with this name already exists this command returns an error.
 
 ### Merging
 
-For merging changes from one branch to another ...
+Command \<git merge> allows to merge two branches. Info from branch_name will be addet to brach from which command was called
 
 ### Merging conflict
 
