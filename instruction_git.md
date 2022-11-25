@@ -96,7 +96,9 @@ Green branch with * indicates on which branch are you now.
 
 ### New branch creating
 
-For creating new branch ...
+For creating new branch print
+
+    git branch branch_name
 
 ### Switching between branches
 
