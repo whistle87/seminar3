@@ -136,3 +136,5 @@ To solve merging conflict select one of suggested options:
 * Accept incoming
 * Accept current
 * Accept both
+
+While you don't do adding to index you can return changes.
