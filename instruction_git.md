@@ -122,6 +122,8 @@ For merging changes from one branch to another print
 
     git merge branch_name
 
+If merging will be done without conflict commit wil be done automatically with short message
+
 ### Merging conflict
 
 If when merging two files the same line is printed differently ...
