@@ -106,7 +106,9 @@ For deleting branch print
 
 ### Switching between branches
 
-For switchng between branche is needed ...
+For switchng between branche print
+
+    git checkout branch_name
 
 ### Merging
 
