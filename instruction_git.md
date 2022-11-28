@@ -141,4 +141,4 @@ While you don't do adding to index you can return changes.
 
 ## Remote repositories
 
-Remote repositories is ...
+Remote repositories is very useful thing
