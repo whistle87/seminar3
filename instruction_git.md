@@ -138,3 +138,7 @@ To solve merging conflict select one of suggested options:
 * Accept both
 
 While you don't do adding to index you can return changes.
+
+## Remote repositories
+
+Remote repositories is ...
